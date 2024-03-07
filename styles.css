@@ -15,3 +15,9 @@ body {
     background: #eee;
     display: block;
 }
+
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+    display: block;
+}
