@@ -38,3 +38,8 @@ img {
 #img-caption {
     margin: 15px 0 15px 0;
 }
+
+#headline {
+    margin: 50px 0;
+    text-align: center;
+}
