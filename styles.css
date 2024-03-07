@@ -61,3 +61,7 @@ blockquote {
     margin: 0 auto 50px auto;
     text-align: left;
 }
+
+a {
+    color: #477ca7;
+}
